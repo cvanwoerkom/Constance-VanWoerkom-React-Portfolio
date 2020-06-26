@@ -1,5 +1,5 @@
 {
-  "name": "Constance-VanWoerkom-React-Portfolio",
+  "name": "constance-vanwoerkom-react-portfolio",
   "version": "1.0.0",
   "description": "Personal portfolio app built in React",
   "scripts": {
@@ -25,7 +25,7 @@
     "sass",
     "css module"
   ],
-  "author": "Your Name Here",
+  "author": "Constance Van Woerkom",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bottega-code-school/js-builder/issues"
